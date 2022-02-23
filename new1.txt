@@ -1,1 +1,2 @@
 first content of master b
+first content of newb b
